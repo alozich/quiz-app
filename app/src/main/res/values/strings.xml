@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">QuizApplication</string>
+    <string-array name="allQuizzes">
+        <item>All_About_Gordon_Ramsay:Ann:NOV30:text:true</item>
+        <item>Disney_Princesses:Ann:NOV30:image:true</item>
+        <item>MavericksCousins:Olivia Eisch:NOV29:image:true</item>
+        <item>AllAboutMav:Olivia Eisch:NOV18:text:true</item>
+        <item>Cheese:Gabby:DEC01:image:true</item>
+        <item>RandomFacts:Olivia Eisch:DEC02:text:true</item>
+        <item>Christmas_Movie_Quotes:Gabriel:DEC1:text:true</item>
+        <item>State_Capitals:Gabriel:DEC2:text:true</item>
+    </string-array>
+    <string-array name="All_About_Gordon_Ramsay"> <!-- first one is the answer -->
+        <item>Where was he born?:Scotland:Ireland:England:Scotland:France</item>
+        <item>Where is the lamb sauce?:Here:Not here:Here:Not here:Not here</item>
+        <item>What is his favorite fast food restaurant?:InNOut:Chickfila:Panda Express:Five Guys:InNOut</item>
+        <item>What sport did he almost go professional in?:Soccer:Soccer:Wrestling:Swimming:Lacrosse</item>
+        <item>What would his last meal on Earth be?:Beef Wellington:Fish and chips:Filet mignon:Beef Wellington:Crab legs</item>
+    </string-array>
+    <string-array name="Disney_Princesses"> <!-- first one is the answer, last one is the drawable -->
+        <item>Which princess is this?:Ariel:Belle:Aurora:Ariel:Jasmine:ariel</item>
+        <item>Which princess is this?:Jasmine:Belle:Aurora:Jasmine:Ariel:jasmine</item>
+        <item>Which princess is this?:Belle:Belle:Cinderella:Jasmine:Ariel:belle</item>
+        <item>Which princess is this?:Cinderella:Belle:Aurora:Cinderella:Ariel:cinderella</item>
+        <item>Which princess is this?:Aurora:Belle:Aurora:Jasmine:Ariel:aurora</item>
+    </string-array>
+    <string-array name="MavericksCousins"> <!-- first one is the answer, last one is the drawable -->
+        <item>Which cousin is this?:Marty:Elvis:Gracie:Marty:Finn:marty</item>
+        <item>Which cousin is this?:Remy:Remy:Gracie:Trudy:Phoebe:remy</item>
+        <item>Which cousin is this?:Trudy:Marty:Winnie:Remy:Trudy:trudy</item>
+        <item>Which cousin is this?:Phoebe:Elvis:Finn:Phoebe:Winnie:phoebe</item>
+        <item>Which cousin is this?:Gracie:Finn:Elvis:Winnie:Gracie:gracie</item>
+    </string-array>
+    <string-array name="AllAboutMav"> <!-- first one is the answer -->
+        <item>What is Maverick\'s middle name?:Joseph:Goose:Michael:Joseph:Sweetie Pie</item>
+        <item>When is Maverick\'s Birthday?:Jan 01 2020:Dec 21 2019:Jan 01 2020:Feb 03 2020:July 07 2020</item>
+        <item>How many cousins does Maverick have?:9:3:5:9:10</item>
+        <item>What is Maverick\'s favorite snack?:Whip Cream:My Arm:Chicken:Carrots:Whip Cream</item>
+        <item>What is Maverick\'s favorite toy?:Jolly Ball:Jolly Ball:Wubba:Stick:Elephant</item>
+    </string-array>
+    <string-array name="Cheese">
+        <item>What is this cheese?:Brie:Mozzarella:Brie:Cheddar:Gouda:brie</item>
+        <item>What is this cheese?:Parmesan:Feta:Mascarpone:Parmesan:Gouda:parmesan</item>
+        <item>What is this cheese?:Blue:Blue:Cottage:Ricotta:Camembert:blue</item>
+        <item>What is this cheese?:Monterey Jack:American:Brie:Gouda:Monterey Jack:montereyjack</item>
+        <item>What is this cheese?:Cream:Epoisses:Cream:Feta:Gorgonzola:cream</item>
+    </string-array>
+    <string-array name="RandomFacts">
+    <item>How much of the world\'s water do glaciers hold?:69 percent:15 percent:45 percent:69 percent:77 percent</item>
+    <item>How fast was the fastest gust of wind ever recorded?:253 mph:150 mph:253 mph:302 mph:326 mph</item>
+    <item>Where is the best place in the world to see Rainbows?:Hawaii:Hawaii:The Philippines:Fiji:The Bahamas</item>
+    <item>What animal can be used to map out the ocean floor?:Whales:Dolphins:Sharks:Sea Anemone:Whales</item>
+    <item>What is the oldest profession in the world?:Dentistry:Dentistry:Philosophy:Scribes:Surgery</item>
+    <item>What countries can you not buy Coca Cola in?:North Korea and Cuba:Iran and Syria:North Korea and Cuba:Eritrea and Guinea:Saudi Arabia and Singapore</item>
+    </string-array>
+    <string-array name="Christmas_Movie_Quotes"> <!--first one is the answer -->
+        <item>What movie is the quote \' They say that the Grinch\'s heart grew three sizes that day\' from:Grinch:Elf:Grinch:The Christmas Story:Christmas Vacation </item>
+        <item>What movie is the quote \' Will you please tell Santa that instead of presents this year I just want my family back\' from:Home Alone:Charlie Brown Chistmas:Grinch:Home Alone:Die Hard </item>
+        <item>What movie is the quote \' It\'s Christmas Eve. It\'s the one night of the year when we all act a little nicer, we smile a little easier, we cheer a little more\' from:Scrooged:Scrooged:Die Hard:Grinch:Home Alone</item>
+        <item>What movie is the quote \' Seeing isn\'t believing. Believing is seeing\' from:The Santa Clause:Die Hard:Grinch:The Santa Clause:Home Alone</item>
+        <item>What movie is the quote \' I think you\'re really beautiful and I feel really warm when I\'m around you and my tongue swells up\' from:Elf:Elf:Die Hard:Grinch:Home Alone</item>
+    </string-array>
+    <string-array name="State_Capitals">
+        <item> What is the capital of Wisconsin?:Madison:Madison:Milwaukee:Plymouth:Green Bay</item>
+        <item> What is the capital of Alaska?:Juneau:Madison:Juneau:Little Rock:Sacramento</item>
+        <item> What is the capital of Kansas?:Topeka:Plymouth:Juneau:Topeka:Green Bay</item>
+        <item> What is the capital of Maine?:Augusta:Augusta:Plymouth:Green Bay:Honolulu</item>
+        <item> What is the capital of Montana?:Helena:Helena:Topeka:Plymouth:Madison</item>
+    </string-array>
+
+    <string name="title_activity_quiz">Quiz App</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
